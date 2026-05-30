@@ -1,0 +1,10 @@
+[package]
+name = "bad-apple-fft"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color-eyre = "0.6"
+fft2d = "0.1.1"
+image = "0.25"
+rustfft = "6.4"
